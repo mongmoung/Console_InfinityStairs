@@ -1,0 +1,7 @@
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\bin\Debug\Lion_Shooting.exe.config
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\bin\Debug\Lion_Shooting.exe
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\bin\Debug\Lion_Shooting.pdb
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\obj\Debug\Lion_Shooting.csproj.AssemblyReference.cache
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\obj\Debug\Lion_Shooting.csproj.CoreCompileInputs.cache
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\obj\Debug\Lion_Shooting.exe
+C:\Rion7Test\Lion_Shooting\Lion_Shooting\obj\Debug\Lion_Shooting.pdb
