@@ -40,7 +40,7 @@ namespace Lion_Shooting
 
                 map.Render();
 
-                player.PlayerMove(map.tiles);
+                player.PlayerMove(map.tilePool);
                 ScrollDown();
 
                 if (CheckGameOver())

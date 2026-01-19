@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Lion_7_Mj\\Lion_7_MJ\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|c:\\lion_7_mj\\lion_7_mj\\lion_shooting\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|c:\\users\\admin\\onedrive\\\uBB38\uC11C\\github\\consol_infinitystairs\\lion_shooting\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Lion_7_Mj\\Lion_7_MJ\\lion_shooting\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\lion_shooting\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C50BCFB-3C86-47CE-BC04-96A14432E1FF}|Lion_Shooting\\Lion_Shooting.csproj|solutionrelative:lion_shooting\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,28 +42,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Map.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Map.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Map.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\Map.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Map.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Map.cs",
               "RelativeToolTip": "Lion_Shooting\\Map.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwC0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAD4v20AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T08:18:50.464Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Player.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\Player.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Player.cs",
               "RelativeToolTip": "Lion_Shooting\\Player.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAkwBoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,25 +73,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerMove.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\PlayerMove.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\PlayerMove.cs",
               "RelativeToolTip": "Lion_Shooting\\PlayerMove.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T04:31:12.412Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\GameManager.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\GameManager.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\GameManager.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\GameManager.cs",
               "RelativeToolTip": "Lion_Shooting\\GameManager.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwCMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,9 +101,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UIManager.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\UIManager.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\UIManager.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\UIManager.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\UIManager.cs",
               "RelativeToolTip": "Lion_Shooting\\UIManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,9 +113,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\GameObject.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\GameObject.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\GameObject.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\GameObject.cs",
               "RelativeToolTip": "Lion_Shooting\\GameObject.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -125,9 +125,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Program.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\Program.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Program.cs",
               "RelativeToolTip": "Lion_Shooting\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +137,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Tile.cs",
-              "DocumentMoniker": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Tile.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Tile.cs",
               "RelativeDocumentMoniker": "Lion_Shooting\\Tile.cs",
-              "ToolTip": "C:\\Lion_7_Mj\\Lion_7_MJ\\Lion_Shooting\\Tile.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\Consol_InfinityStairs\\Lion_Shooting\\Tile.cs",
               "RelativeToolTip": "Lion_Shooting\\Tile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

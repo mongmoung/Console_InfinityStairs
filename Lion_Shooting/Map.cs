@@ -1,29 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 
 namespace Lion_Shooting
 {
     internal class Map
     {
 
-        public List<Tile> tiles = new List<Tile>();
         private int startPosY = Console.WindowHeight - 1;
+        public List<Tile> tilePool = new List<Tile>();
 
         private int lastX, lastY;
         private int curDir = 1;
         private int dirCount = 0;
         private int maxDirCount = 0;
+        private int maxTile = 100;
         Random rand = new Random();
 
         public Map()
         {
-            for (int i = 0; i < 200; i++) tiles.Add(new Tile { isActive = false });
+            for (int i = 0; i < maxTile; i++) tilePool.Add(new Tile { isActive = false });
         }
 
         public void CreatMap()
         {
-            foreach (var t in tiles) t.isActive = false;
+            foreach (var t in tilePool) t.isActive = false;
 
             for (int x = 0; x < Console.WindowWidth - 1; x++)
             {
@@ -74,7 +76,9 @@ namespace Lion_Shooting
 
         private void PlacePlatform(int x, int y)
         {
-            for (int i = 0; i < 3; i++)
+            int tiles = 3;
+
+            for (int i = 0; i < tiles; i++)
             {
                 Tile t = GetInactiveTile();
                 if (t != null)
@@ -101,11 +105,11 @@ namespace Lion_Shooting
             }
         }
 
-        private Tile GetInactiveTile() => tiles.FirstOrDefault(t => !t.isActive);
+        private Tile GetInactiveTile() => tilePool.FirstOrDefault(t => !t.isActive);
 
         public void Render()
         {
-            foreach (var tile in tiles)
+            foreach (var tile in tilePool)
             {
                 if (tile.isActive)
                 {
@@ -116,7 +120,7 @@ namespace Lion_Shooting
 
         public void ScrollDown()
         {
-            foreach (var t in tiles)
+            foreach (var t in tilePool)
             {
                 if (t.isActive)
                 {
